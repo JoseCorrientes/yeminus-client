@@ -1,0 +1,2 @@
+export const TODECRYPT='TODECRYPT';
+export const TOENCRYPT='TOENCRYPT';
